@@ -57,7 +57,7 @@ const CONFIG = {
   // ── 우리의 이야기 ──
   story: {
     title: "우리의 이야기",
-    content: "여러분을 소중한 자리에 초대합니다."
+    content: ""
   },
 
   // ── 오시는 길 ──
