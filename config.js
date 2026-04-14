@@ -56,7 +56,7 @@ const CONFIG = {
 
   // ── 우리의 이야기 ──
   story: {
-    title: "우리의 이야기",
+    title: "현석 ♥ 수연",
     content: ""
   },
 
